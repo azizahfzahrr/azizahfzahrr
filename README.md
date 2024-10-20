@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azizahfzahrr
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin, Flutter & Java
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me
   Instagram: @azizahfzahr
   Linkedin: https://www.linkedin.com/in/azizah-fathimatuzzahro/
